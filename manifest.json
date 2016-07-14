@@ -1,5 +1,6 @@
 {
-  "name": "GitHub File2PDF",
+  "name": "GitHub File2PDF Converter",
+  "short_name": "GitHub File2PDF",
   "description": "Easily turn displaying markdown / source code file on GitHub to printable PDF!",
   "version": "1.1",
   "background": {
@@ -9,7 +10,7 @@
     "tabs", "http://*/*", "https://*/*"
   ],
   "browser_action": {
-      "default_title": "Print this GitHub page",
+      "default_title": "Print as PDF",
       "default_icon": "print_16x16.png"
   },
   "manifest_version": 2
