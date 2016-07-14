@@ -1,4 +1,4 @@
-// Copyright (c) 2016 Ducky Duke. All rights reserved.
+// Copyright (c) 2016 Duc Doba. All rights reserved.
 // LICENSE: MIT
 
 // Called when the user clicks on the browser action.
